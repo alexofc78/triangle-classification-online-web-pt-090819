@@ -23,11 +23,13 @@ class Triangle
 
   end
 
-end
-
 class TriangleError < StandardError
   
 end
+
+end
+
+
 
 # The sum of the lengths of any two sides of a triangle always exceeds the length of the third side. This is a principle known as the triangle inequality.
 
